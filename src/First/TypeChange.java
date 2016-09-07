@@ -1,6 +1,6 @@
 package First;
 
-public class 강제타입변환 {
+public class TypeChange{
 
 	public static void main(String[] args) {
 		int intValue = 44035;
